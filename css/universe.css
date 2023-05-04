@@ -1,0 +1,23 @@
+body {
+    background-image: url("../images/mountains-universe02.png");
+    font-family:'Roboto', sans-serif;
+    color: #E1E1E6;
+}
+
+
+h1 {
+    font-size: 48px;
+    line-height:60px;
+    margin-top: 113px;
+    margin-left: 50px;
+}
+
+h2 {
+font-size:18px ;
+line-height:28px ;
+margin-top: 16px;
+display: grid;
+margin-left: 50px;
+margin-right: 553px;
+}
+
